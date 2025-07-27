@@ -1,0 +1,8 @@
+streamlit
+pyresparser
+scikit-learn
+pandas
+PyPDF2
+python-dotenv
+nltk
+spacy
